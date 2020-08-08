@@ -9,11 +9,11 @@
 <h3 align="center">Goodbye, Bloatware!</h3>
 
 <p align="center">
-<a href="[#](https://github.com/andriksantos/bloatbox/releases/latest)" target="_blank">
+<a href="https://github.com/andriksantos/bloatbox/releases" target="_blank">
 <img alt="Latest GitHub release" src="https://img.shields.io/badge/Release-1.0-green" />
 </a>
 	
-<a href="https://github.com/builtbybel/burnbytes/releases" target="_blank">
+<a href="https://github.com/andriksantos/Bloatox/releases" target="_blank">
 <img alt="Downloads on GitHub" src="https://img.shields.io/badge/Download-24k-blue" />
 </a>
 
@@ -27,7 +27,7 @@ alt="GitHub last commit">
     <a href="Contributing.md">Contribution Guide</a>&nbsp;&nbsp;&nbsp;
     </p>
     <p >
-    <sub>Just type <a href="https://github.com/andriksantos/bloattox"><code>Bloatox</code></a> to go here. Check out my <a href="https://andriksantos.github.io/">web</a> and follow me on <a href="https://twitter.com/andrik_rsm">Twitter</a> and <a href="">Download</a> this app.</sub>
+    <sub>Just type <a href="https://github.com/andriksantos/bloattox"><code>Keebox</code></a> to go here. Check out my <a href="https://andriksantos.github.io/">web</a> and follow me on <a href="https://twitter.com/andrik_rsm">Twitter</a> and <a href="https://github.com/andriksantos/Bloatox/releases">Download</a> this app.</sub>
   </p>
 </div>
 
