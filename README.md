@@ -9,15 +9,15 @@
 <h3 align="center">Goodbye, Bloatware!</h3>
 
 <p align="center">
-<a href="https://github.com/andriksantos/bloatbox/releases" target="_blank">
+<a href="https://github.com/andriksantos/keebox/releases" target="_blank">
 <img alt="Latest GitHub release" src="https://img.shields.io/badge/Release-1.0-green" />
 </a>
 	
-<a href="https://github.com/andriksantos/Bloatox/releases" target="_blank">
+<a href="https://github.com/andriksantos/keebox/releases" target="_blank">
 <img alt="Downloads on GitHub" src="https://img.shields.io/badge/Download-24k-blue" />
 </a>
 
-<a href="https://github.com/andriksantos/Bloatox/commits/master">
+<a href="https://github.com/andriksantos/keebox/commits/master">
 <img src="https://img.shields.io/badge/Last Commit-Today-green"
 alt="GitHub last commit">
 
@@ -44,12 +44,12 @@ This code is based on parts of this nice project from [ConditionalException](htt
 
 ## Download
 
-- (Latest release) [Download](https://github.com/andriksantos/bloatbox/releases)
-- (Mirror on my site) [Download](https://www.andriksantos.com/bloatbox)
-- (Source Code) [Download](https://github.com/andriksantos/bloatbox/releases) 
+- (Latest release) [Download](https://github.com/andriksantos/keebox/releases)
+- (Mirror on my site) [Download](https://www.andriksantos.com/keebox)
+- (Source Code) [Download](https://github.com/andriksantos/keebox/releases) 
 
 ## Community package
-The community package for Bloatbox adds support for several advanced scripting features based upon PowerShell, e.g.
+The community package for Keebox adds support for several advanced scripting features based upon PowerShell, e.g.
 - Reinstall of all built-in apps
 - Removal of specific pre-installed apps
 - Uninstall of OneDrive 
@@ -60,18 +60,18 @@ The community package for Bloatbox adds support for several advanced scripting f
 #### Check also the [Marketplace for new script files](https://github.com/builtbybel/bloatbox/tree/master/marketplace)
 Script files provided for [Spydish](https://github.com/builtbybel/spydish) or my older app SharpApp are fully compatible with Bloatbox. You will find some on my site [here](https://www.builtbybel.com/marketplace)
 
-All scripts included to the latest package can be viewed [here](https://github.com/andriksantos/bloatbox/tree/master/marketplace)
+All scripts included to the latest package can be viewed [here](https://github.com/andriksantos/keebox/tree/master/marketplace)
 
 ### How-to Install
-* **[Download](https://github.com/andriksantos/bloatbox/blob/master/marketplace/bloatbox_pkg-EXTRACT_FIRST.zip?raw=true)** the latest `bloatbox_pkg.zip` file.
-* **Extract the package** to Bloatbox installation directory
-* **Restart Bloatbox**
+* **[Download](https://github.com/andriksantos/keebox/blob/master/marketplace/keebox_pkg-EXTRACT_FIRST.zip?raw=true)** the latest `keebox_pkg.zip` file.
+* **Extract the package** to keebox installation directory
+* **Restart keebox**
 
 ### Intro of community package after Installing
 
-![community-package](https://github.com/andriksantos/bloatbox/blob/master/assets/bloatbox-pkg.gif)
+![community-package](https://github.com/andriksantos/keebox/blob/master/assets/keebox-pkg.gif)
 
-#### This feature is only supported by Bloatbox version 0.14 and higher!
+#### This feature is only supported by keebox version 0.14 and higher!
 
 ## Credits
 
